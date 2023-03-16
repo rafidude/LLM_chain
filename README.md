@@ -1,2 +1,3 @@
 # LLM_chain
-API interaction with LLMs
+
+API interaction with LLMs using Langchain
